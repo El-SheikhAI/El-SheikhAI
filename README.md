@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/🚀_Nodatix-Live-EA4B71?style=for-the-badge" alt="Nodatix" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mostafa-el-sheikh" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-elsheikh-44854b322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
