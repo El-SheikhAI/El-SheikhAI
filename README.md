@@ -36,6 +36,14 @@ My specialty is taking chaotic, disconnected business processes and wiring them 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=El-SheikhAI&theme=radical&hide_border=true&background=0d1117&ring=EA4B71&fire=412991&currStreakLabel=EA4B71" />
+</p>
+
+---
+
 ## 🚀 What I'm Building
 
 <table>
@@ -181,13 +189,6 @@ My specialty is taking chaotic, disconnected business processes and wiring them 
   <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=El-SheikhAI&theme=radical&hide_border=true&background=0d1117&ring=EA4B71&fire=412991&currStreakLabel=EA4B71" />
-</p>
 
 ---
 
