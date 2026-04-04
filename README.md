@@ -166,12 +166,6 @@ My specialty is taking chaotic, disconnected business processes and wiring them 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=El-SheikhAI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=EA4B71&icon_color=412991&text_color=ffffff&count_private=true&cache_seconds=1800" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-SheikhAI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EA4B71&text_color=ffffff&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=El-SheikhAI&theme=radical&hide_border=true&background=0d1117&ring=EA4B71&fire=412991&currStreakLabel=EA4B71" />
 </p>
 
