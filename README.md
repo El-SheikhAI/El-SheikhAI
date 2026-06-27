@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4B71,100:412991&height=220&section=header&text=Mostafa%20El-Sheikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20Architect%20%7C%20AI%20Builder%20%7C%20Founder%20%40%20Nodatix&descAlignY=58&descSize=18&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA4B71,100:412991&height=220&section=header&text=Mostafa%20El-Sheikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20Architect%20%7C%20AI%20Builder%20%7C%20Founder%20%40%20Nodatx&descAlignY=58&descSize=18&descColor=cccccc" />
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="https://nodatix.cv" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Nodatix-Live-EA4B71?style=for-the-badge" alt="Nodatix" />
+  <a href="https://nodatx.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_nodatx-Live-EA4B71?style=for-the-badge" alt="nodatx" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mostafa-elsheikh-44854b322/" target="_blank">
@@ -30,7 +30,7 @@
 
 ## 🧠 Who Am I?
 
-I'm a **full-stack automation engineer** and the founder of **[Nodatix](https://nodatix.cv)** — a workflow automation company built to help Egyptian and Arab businesses replace repetitive manual work with intelligent, self-driving systems.
+I'm a **full-stack automation engineer** and the founder of **[nodatx](https://nodatx.cv)** — a workflow automation company built to help Egyptian and Arab businesses replace repetitive manual work with intelligent, self-driving systems.
 
 My specialty is taking chaotic, disconnected business processes and wiring them into clean, scalable pipelines using **n8n**, AI models, and modern APIs. I don't just automate tasks — I design entire operational systems that think and act on their own.
 
@@ -49,9 +49,9 @@ My specialty is taking chaotic, disconnected business processes and wiring them 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Nodatix</h3>
+      <h3>⚙️ nodatx</h3>
       <p>B2B automation SaaS targeting Egyptian & Arab companies. We build custom n8n workflows, WhatsApp bots, HR systems, AI chatbots, and end-to-end business automations — replacing hours of human work with intelligent pipelines.</p>
-      <a href="https://nodatix.cv">nodatix.cv →</a>
+      <a href="https://nodatx.cv">nodatx.cv →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI Agents</h3>
@@ -196,7 +196,7 @@ My specialty is taking chaotic, disconnected business processes and wiring them 
 
 > *"Every manual task is just an automation waiting to be built."*
 
-I believe the best businesses in the next decade will be the ones that automate fastest. My mission with **Nodatix** is to be the automation backbone for Arab businesses — helping them compete globally by working smarter with AI and workflows.
+I believe the best businesses in the next decade will be the ones that automate fastest. My mission with **nodatx** is to be the automation backbone for Arab businesses — helping them compete globally by working smarter with AI and workflows.
 
 ---
 
@@ -205,11 +205,11 @@ I believe the best businesses in the next decade will be the ones that automate 
 If you're a business owner tired of doing things manually, or a developer interested in automation and AI agents — **let's connect**.
 
 <p align="center">
-  <a href="https://nodatix.cv" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_Visit_Nodatix-EA4B71?style=for-the-badge" />
+  <a href="https://nodatx.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Visit_Nodatx-EA4B71?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="mailto:mostafa@nodatix.cv">
+  <a href="mailto:mostafa@nodatx.cv">
     <img src="https://img.shields.io/badge/📧_Email_Me-412991?style=for-the-badge" />
   </a>
 </p>
