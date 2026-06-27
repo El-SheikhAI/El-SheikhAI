@@ -209,7 +209,7 @@ If you're a business owner tired of doing things manually, or a developer intere
     <img src="https://img.shields.io/badge/🌍_Visit_Nodatx-EA4B71?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="mailto:mostafa@nodatx.cv">
+  <a href="mailto:mostafa@nodatx.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-412991?style=for-the-badge" />
   </a>
 </p>
